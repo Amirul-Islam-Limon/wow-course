@@ -1,0 +1,10 @@
+.shop-component{
+    display: flex;
+}
+.products-container{
+    width: 70%;
+    margin-left: 200px;
+}
+.count-container{
+
+}

@@ -1,0 +1,74 @@
+[{
+    "id": 1,
+    "product_name": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+    "price": 26.33,
+    "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+    "instructor": "Candis Chessun"
+  }, {
+    "id": 2,
+    "product_name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "price": 33.73,
+    "img": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+    "instructor": "Elvyn Broadis"
+  }, {
+    "id": 3,
+    "product_name": "Python for Data Science and Machine Learning Bootcamp",
+    "price": 44.70,
+    "img": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
+    "instructor": "Hugh Antognetti"
+  }, {
+    "id": 4,
+    "product_name": "Learn Python Programming Masterclass",
+    "price": 30.94,
+    "img": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
+    "instructor": "Kele Koeppe"
+  }, {
+    "id": 5,
+    "product_name": "The Python Mega Course: Build 10 Real World Applications",
+    "price": 15.41,
+    "img": "https://img-c.udemycdn.com/course/240x135/692188_9da7_18.jpg",
+    "instructor": "Krystle Chisholm"
+  }, {
+    "id": 6,
+    "product_name": "Learning Python for Data Analysis and Visualization",
+    "price": 49.20,
+    "img": "https://img-b.udemycdn.com/course/240x135/396876_cc92_7.jpg",
+    "instructor": "Sandy Aurelius"
+  },{
+    "id": 7,
+    "product_name": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+    "price": 26.33,
+    "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+    "instructor": "Candis Chessun"
+  }, {
+    "id": 8,
+    "product_name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "price": 33.73,
+    "img": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+    "instructor": "Elvyn Broadis"
+  }, {
+    "id": 9,
+    "product_name": "Python for Data Science and Machine Learning Bootcamp",
+    "price": 44.70,
+    "img": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
+    "instructor": "Hugh Antognetti"
+  }, {
+    "id": 10,
+    "product_name": "Learn Python Programming Masterclass",
+    "price": 30.94,
+    "img": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
+    "instructor": "Kele Koeppe"
+  }, {
+    "id": 11,
+    "product_name": "The Python Mega Course: Build 10 Real World Applications",
+    "price": 15.41,
+    "img": "https://img-c.udemycdn.com/course/240x135/692188_9da7_18.jpg",
+    "instructor": "Krystle Chisholm"
+  }, {
+    "id": 12,
+    "product_name": "Learning Python for Data Analysis and Visualization",
+    "price": 49.20,
+    "img": "https://img-b.udemycdn.com/course/240x135/396876_cc92_7.jpg",
+    "instructor": "Sandy Aurelius"
+  }
+]
